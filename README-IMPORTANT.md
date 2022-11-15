@@ -11,4 +11,4 @@ X.pickle (pickle of the images) = https://drive.google.com/file/d/1-ZQh_Ch7SwgSf
 
 y.pickle (pickle of the labels) = https://drive.google.com/file/d/1-b38kY0LIErEWYR6VvNmxBePEDfQeZhd/view?usp=share_link
 
-LaTeX Paper is the final pdf Report
+Final LaTeX Report: the report in pdf format
