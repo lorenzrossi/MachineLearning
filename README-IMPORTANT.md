@@ -10,3 +10,5 @@ CatsDogs personal repository (with all the files) = https://drive.google.com/dri
 X.pickle (pickle of the images) = https://drive.google.com/file/d/1-ZQh_Ch7SwgSfBCw6TXOLgO8ZKgVxdS2/view?usp=share_link
 
 y.pickle (pickle of the labels) = https://drive.google.com/file/d/1-b38kY0LIErEWYR6VvNmxBePEDfQeZhd/view?usp=share_link
+
+LaTeX Paper is the final pdf Report
